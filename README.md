@@ -56,8 +56,8 @@ Final Project( AI news summarizer )/
 - **Frontend**: Streamlit  
 - **Database**: MySQL
 - **AI Models**: Custom summarizers (`english_summarizer.py`, `bangla_summarizer`)  
-- **Web Scraping**: Jupyter Notebook (BeautifulSoup / Requests expected)  
-- **Others**: Python 3.10+, PyTorch/Transformers (if used for NLP)  
+- **Web Scraping**: Jupyter Notebook, requests-html
+- **Others**: Python 3.10+, 
 
 ---
 
@@ -114,12 +114,4 @@ They include:
 
 ---
 
-## 🔮 Future Improvements
-
-- Integration with live news APIs (e.g., NewsAPI, Google News).  
-- More advanced summarization using **transformer-based models** (BART, Pegasus, mBART for Bangla).  
-- Multilingual support beyond English & Bangla.  
-- Deploying on cloud platforms (Heroku, AWS, Hugging Face Spaces).  
-
----
 
