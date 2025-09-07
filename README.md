@@ -54,7 +54,7 @@ Final Project( AI news summarizer )/
 
 - **Backend**: FastAPI  
 - **Frontend**: Streamlit  
-- **Database**: Likely SQLite / PostgreSQL (based on provided scripts)  
+- **Database**: MySQL
 - **AI Models**: Custom summarizers (`english_summarizer.py`, `bangla_summarizer`)  
 - **Web Scraping**: Jupyter Notebook (BeautifulSoup / Requests expected)  
 - **Others**: Python 3.10+, PyTorch/Transformers (if used for NLP)  
