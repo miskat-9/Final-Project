@@ -54,7 +54,7 @@ Final Project( AI news summarizer )/
 
 - **Backend**: FastAPI  
 - **Frontend**: Streamlit  
-- **Database**: MySQL
+- **Database**: MySQL (Table Plus)
 - **AI Models**: Custom summarizers (`english_summarizer.py`, `bangla_summarizer`)  
 - **Web Scraping**: Jupyter Notebook, requests-html
 - **Others**: Python 3.10+, 
