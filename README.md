@@ -58,7 +58,7 @@ Final Project( AI news summarizer )/
 - **AI Models**: Custom summarizers (`english_summarizer.py`, `bangla_summarizer`)  
 - **Web Scraping**: Jupyter Notebook, requests-html
 - **Others**: Python 3.10+, 
-
+- **Scraped Link**: https://thefinancialexpress.com.bd/page/economy/bangladesh
 ---
 
 ## ⚙️ Installation & Setup
